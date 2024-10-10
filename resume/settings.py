@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+^q^p_ef^008wer^b6q1*3y8006a)l)sbck8%=)1-!mc8f!1v!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://django-resume-production-840d.up.railway.app', 'django-resume-production-840d.up.railway.app']
+ALLOWED_HOSTS = ['https://chukacorp.com', 'chukacorp.com', 'https://django-resume-production-840d.up.railway.app', 'django-resume-production-840d.up.railway.app', 'localhost']
 
 
 # Application definition
